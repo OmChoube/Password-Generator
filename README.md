@@ -27,5 +27,3 @@ git clone https://github.com/OmChoube/Password-Generator.git
 cd Password-Generator
 python password_generator_basic.py
 
----
-
