@@ -21,6 +21,7 @@ This is a **secure and customizable password generator** written in Python. It a
 
 ## 🛠️ How to Run
 ### **1️⃣ Clone the Repository**
+```sh
 Open a terminal or command prompt and run:
 git clone https://github.com/OmChoube/Password-Generator.git
 cd Password-Generator
@@ -29,19 +30,9 @@ python password_generator_basic.py
 ---
 
 📝 Usage Instructions
-Enter password length (must be between 8 to 50 characters).
-Choose password components:
-Include uppercase letters? (y/n)
-Include lowercase letters? (y/n)
-Include numbers? (y/n)
-Include special characters? (y/n)
-Receive your randomly generated password!
-
----
-
-📌 Example Output:
 
 ==== Random Password Generator ====
+```sh
 Enter password length (8-50): 12
 Include uppercase letters? (y/n): y
 Include lowercase letters? (y/n): y
