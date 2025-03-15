@@ -29,17 +29,3 @@ python password_generator_basic.py
 
 ---
 
-📝 Usage Instructions
-
-==== Random Password Generator ====
-```sh
-Enter password length (8-50): 12
-Include uppercase letters? (y/n): y
-Include lowercase letters? (y/n): y
-Include numbers? (y/n): y
-Include special symbols? (y/n): y
-
-Your generated password is:
-A4#mPq9!Zx&d
-
----
